@@ -62,5 +62,5 @@ public class CheckoutPage extends BasePage {
     public WebElement getFrozenMouse() {
         return frozenMouse;
     }
-
+//df
 }
